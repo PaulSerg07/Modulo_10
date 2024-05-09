@@ -1,5 +1,5 @@
 import React from 'react';
-import Login from './pages/Login'; // Certifique-se de que o caminho para o arquivo Login está correto
+import Login from './pages/Login'; 
 
 function App() {
   return (
